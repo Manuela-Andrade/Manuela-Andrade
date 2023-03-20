@@ -1,5 +1,9 @@
-## Olá, sou a Manuela Andrade <img alt="Meu Octocat" height="10" width="20" src="octocat.png">
+<div align="center"><br>
+    
+## Olá, sou a Manuela Andrade 
 
+<img align="center" alt="Meu Octocat" height="100" width="100" src="octocat.png">
+</div>
 <ul>
     <li>👩🏻‍🎓FORMADA</li>
   <ul>
@@ -11,7 +15,7 @@
   </ul>
  </ul>
  
-<div>
+<div align="center">
 <a href="https://github.com/manuandrade-crf">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manuandrade-crf&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=manuandrade-crf&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
