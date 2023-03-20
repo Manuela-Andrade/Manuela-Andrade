@@ -1,4 +1,4 @@
-## Olá, sou a Manuela Andrade 🙋🏻‍♀️
+## Olá, sou a Manuela Andrade <img alt="Meu Octocat" height="10" width="20" src="octocat.png">
 
 <ul>
     <li>👩🏻‍🎓FORMADA</li>
