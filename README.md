@@ -14,11 +14,11 @@
     <li>👩🏻‍💻 Desenvolvimento Web full Stack - Programadores Cariocas (Resilia + Senac RJ + Prefeitura do Rio)</li>
   </ul>
  </ul>
- 
+
 <div align="center">
 <a href="https://github.com/manuandrade-crf">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manuandrade-crf&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=manuandrade-crf&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manuandrade-crf&layout=compact&langs_count=7&theme=transparent"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=manuandrade-crf&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
 </div>
   
  ## <div align="center"> Tecnologias já estudadas
